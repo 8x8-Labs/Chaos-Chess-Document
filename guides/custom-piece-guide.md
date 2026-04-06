@@ -37,7 +37,7 @@
 ### `z` — 나이트라이더
 
 ```
-customPiece1 = z:nN
+customPiece1 = z:NN
 ```
 
 **사용 카드:** 무한궤도
